@@ -48,135 +48,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Measurabl](https://www.measurabl.com/)**  
-
-  Sustainability and ESG data-management platform focused on commercial real-estate performance, energy, water, waste, carbon emissions, benchmarking, reporting, and sustainability management.
-
-
-
-- **[Facilio](https://facilio.com/)**  
-
-  Cloud-based building operations and facility-management platform connecting building systems, IoT devices, maintenance workflows, energy data, and operational analytics.
-
-
-
-- **[BuildingMinds](https://www.buildingminds.com/)**  
-
-  Building-management and digital-twin platform focused on connecting building data, space information, energy performance, facility operations, and sustainability intelligence.
-
-
-
-- **[Enertiv](https://enertiv.com/)**  
-
-  Building operations and energy-monitoring platform providing real-time equipment monitoring, utility analytics, fault detection, predictive insights, and building-performance intelligence.
-
-
-
-- **[Switch Automation](https://www.switchautomation.com/)**  
-
-  Building performance platform integrating operational and building-system data for energy optimization, asset management, sustainability, analytics, and portfolio-level building intelligence.
-
-
-
-- **[BrainBox AI](https://brainboxai.com/)**  
-
-  AI-powered building optimization platform focused primarily on HVAC systems, energy efficiency, autonomous control, and reducing building energy consumption.
-
-
-
-- **[Aquicore](https://aquicore.com/)**  
-
-  Building energy-management and utility analytics platform providing energy monitoring, automated utility data collection, benchmarking, tenant allocation, and operational insights.
-
-
-
-- **[Spacewell](https://spacewell.com/)**  
-
-  Smart-building and workplace-management platform combining IoT, building operations, energy management, workplace analytics, maintenance, and facility management.
-
-
-
-- **[DEXMA](https://www.dexma.com/)**  
-
-  Energy-management and energy-analytics platform providing monitoring, benchmarking, energy intelligence, and optimization capabilities for buildings and facilities.
-
-
-
-- **[EnergyCAP](https://www.energycap.com/)**  
-
-  Energy and utility-management platform providing utility bill management, energy analytics, benchmarking, emissions tracking, budgeting, and portfolio-level reporting.
-
-
-
-- **[Honeywell Forge](https://www.honeywell.com/us/en/honeywell-forge)**  
-
-  Enterprise building and industrial operations platform providing connected asset monitoring, analytics, energy management, predictive insights, and operational optimization.
-
-
-
-- **[Johnson Controls OpenBlue](https://www.johnsoncontrols.com/openblue)**  
-
-  Connected-building platform combining building automation, digital twins, AI, energy management, sustainability, occupant experience, and operational analytics.
-
-
-
-- **[Siemens Building X](https://www.siemens.com/global/en/products/buildings/building-x.html)**  
-
-  Cloud-based smart-building platform connecting building systems, energy, security, space, and operational data for analytics and optimization.
-
-
-
-- **[Schneider Electric EcoStruxure Building](https://www.se.com/ww/en/work/solutions/for-business/smart-buildings/)**  
-
-  Connected building-management ecosystem providing building automation, energy monitoring, HVAC management, analytics, and operational optimization.
-
-
-
-- **[Verdigris](https://www.verdigris.co/)**  
-
-  AI-enabled energy intelligence platform focused on high-resolution electrical monitoring, equipment-level energy analytics, anomaly detection, and operational insights.
-
-
-
-- **[GridPoint](https://www.gridpoint.com/)**  
-
-  Building energy-management platform focused on HVAC optimization, energy monitoring, automated control, demand management, and multi-site performance.
-
-
-
-- **[75F](https://www.75f.io/)**  
-
-  IoT-based building automation and HVAC optimization platform using sensors, controls, cloud analytics, and automated building-performance management.
-
-
-
-- **[Clockworks Analytics](https://clockworksanalytics.com/)**  
-
-  Building analytics platform focused on HVAC fault detection, diagnostics, equipment performance, energy optimization, and operational insights.
-
-
-
-- **[Aquicore](https://aquicore.com/)**  
-
-  Energy and building-performance analytics platform for monitoring utilities, identifying operational opportunities, and benchmarking commercial properties.
-
-
-
-- **[KGS Buildings](https://www.kgsbuildings.com/)**  
-
-  Building analytics platform focused on HVAC performance, fault detection, energy efficiency, and automated building diagnostics.
-
-
-
-- **[Facilio Energy Management](https://facilio.com/)**  
-
-  Building and facility operations environment combining connected assets, energy monitoring, maintenance, automation, and operational analytics.
-
-
-
-- **[Verdigris AI](https://www.verdigris.co/)**  
-
-  Electrical-energy intelligence and anomaly-detection platform providing granular energy data and AI-driven insights into building electrical systems.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Measurabl](https://www.measurabl.com/)** | Sustainability and ESG data-management platform for commercial real estate benchmarking, decarbonization, utility data, and regulatory reporting. | Free basic plan; Premium tiers start at **~$45 – $75/building/month** (~$5,995/year starting package for portfolio tracking). | **Free Forever plan**: Permanent access to core ESG tracking, utility data organization, global benchmarking, and baseline reporting for property assets. |
+| **[Facilio](https://facilio.com/)** | Cloud-based building operations and facility-management platform connecting IoT devices, maintenance workflows, energy data, and operational analytics. | Starts at **~$10,000/year** (~$833/month) based on named user tiers and standard module deployment with annual billing. | **Free Trial on Request**: 14 to 30-day proof-of-concept/pilot environment with full feature access and sample connected asset data. |
+| **[BuildingMinds](https://www.buildingminds.com/)** | Building-management and digital-twin platform connecting space data, energy performance, decarbonization pathways, and ESG intelligence. | Starts at **€19.90/building/month** (Self-Service plan, billed monthly); Enterprise volume tiers available upon consultation. | **14-Day Free Trial**: Full access to the self-service platform for portfolio onboarding, AI document ingestion, and energy/carbon reporting. |
+| **[Enertiv](https://enertiv.com/)** | Building operations and energy-monitoring platform offering real-time equipment tracking, utility submetering, and predictive maintenance. | Starts at **~$0.02 – $0.05/sq. ft./year** for commercial assets or **~$1 – $3/unit/month** for residential/multifamily portfolios (+ onboarding fee). | **Free Trial / Guided Pilot**: 30-day evaluation pilot on selected equipment/submeters with onboarding assessment. |
+| **[Switch Automation](https://www.switchautomation.com/)** | Smart building performance platform integrating BMS, IoT telemetry, and operational data for energy optimization and asset management. | Starts at **~$0.015 – $0.03/sq. ft./year** (entry portfolio packages starting from **~$12,000/year**). | **30-Day Free Trial**: Guided proof-of-concept pilot for qualified real estate portfolios including data ingestion and dashboarding. |
+| **[BrainBox AI](https://brainboxai.com/)** | Autonomous AI platform connecting directly to commercial HVAC systems to optimize heating/cooling in real-time and cut energy consumption. | Starts at **~$0.25/sq. ft./year** (SaaS subscription model billed annually based on building HVAC tonnage/capacity). | **30 to 60-Day Pilot Program**: Proof-of-concept deployment on target HVAC units to measure and validate baseline energy reduction before contract rollout. |
+| **[Aquicore](https://aquicore.com/)** | Energy management and building analytics platform providing automated utility tracking, tenant submeter billing, and ENERGY STAR benchmarking. | Starts at **~$500 – $1,000/building/month** (annual portfolio contracts starting at **~$6,000/year**). | **30-Day Free Pilot**: Guided trial on 1–2 utility meters or building accounts with automated data capture and peak demand analysis. |
+| **[Spacewell](https://spacewell.com/)** | Smart-building and workplace-management platform combining IoT occupancy sensing, energy management, and maintenance automation. | Starts at **~$1.50 – $3.00/sensor or asset/month** (annual platform subscription packages starting from **~$5,000/year**). | **14 to 30-Day Pilot Trial**: Sandbox environment with live sample sensor integration and workplace energy analytics upon request. |
+| **[DEXMA](https://www.dexma.com/)** *(Spacewell Energy)* | Energy intelligence and analytics platform providing automated monitoring, forecasting, artificial intelligence alarms, and submetering. | Starts at **~$25 – $50/data point/year** (or **~€100 – €300/meter/month** for standard energy analytics cloud tiers). | **30-Day Free Trial**: Full-access trial account with demo energy datasets, automated reporting, and anomaly detection rules. |
+| **[EnergyCAP](https://www.energycap.com/)** | Utility bill management, energy tracking, carbon emissions accounting, and facility benchmarking platform. | Starts at **~$4,000 – $5,000/year** (approximately **~$10 – $25/meter/year** for Standard Edition; Enterprise tiers from **~$13,000/year**). | **14 to 30-Day Free Trial**: Guided onboarding trial with test utility bill ingestion, meter configuration, and rate schedule analysis. |
+| **[Honeywell Forge](https://www.honeywell.com/us/en/honeywell-forge)** | Enterprise building and asset performance platform providing predictive maintenance, energy optimization, and operational intelligence. | Starts at **~$15,000/year** for core enterprise modules (modular cloud applications start from **~$150/site/month**). | **30-Day Free Trial**: Available for select modular cloud applications (such as Visitor and Space Management); guided demo pilot for APM. |
+| **[Johnson Controls OpenBlue](https://www.johnsoncontrols.com/openblue)** | Connected-building suite combining digital twins, AI-driven energy optimization, indoor air quality management, and building automation. | Starts at **~$10,000 – $20,000/year** (1 to 3-year cloud subscription tiers based on connected building assets and square footage). | **30-Day Pilot Program**: Guided proof-of-concept deployment with connected chillers/HVAC systems and performance dashboards. |
+| **[Siemens Building X](https://www.siemens.com/global/en/products/buildings/building-x.html)** | Modular cloud platform integrating energy management, operations, digital services, and smart building applications. | Modular applications start at **~$120 – $250/month per application/site** (12-month advance subscription; gateways sold separately). | **6-Month Free Trial**: Full functionality access for 1 site on core services (such as Building X Energy Manager). |
+| **[Schneider Electric EcoStruxure Building](https://www.se.com/ww/en/work/solutions/for-business/smart-buildings/)** | Connected building ecosystem providing BMS automation, energy monitoring, HVAC control, and workplace efficiency. | Starts at **~$5,000 – $10,000/year per server/site license** (modular cloud SaaS add-ons from **~$100/month**). | **30-Day Free Trial**: Available for select EcoStruxure cloud apps (e.g., EcoStruxure IT and remote access); guided pilot for Building Operation. |
+| **[Verdigris](https://www.verdigris.co/)** | AI-enabled high-frequency electrical energy monitoring platform providing circuit-level telemetry and automated fault detection. | Starts at **~$300 – $500/site/month** (or capacity-based enterprise pricing from **~$1,000/MW/year** + hardware sensor pack). | **30-Day Pilot Evaluation**: Guided pilot program on electrical panels with high-frequency CT sensors and AI anomaly detection reports. |
+| **[GridPoint](https://www.gridpoint.com/)** | Energy-Management-as-a-Service (EMaaS) platform delivering automated HVAC control, submetering, and demand response. | Starts at **~$200 – $500/location/month** (subscription bundle covering cloud platform, controllers, and monitoring services). | **Free Energy Assessment**: Complete site audit, load profile review, and energy reduction ROI analysis (no software self-trial). |
+| **[75F](https://www.75f.io/)** | Full-stack IoT building automation and predictive HVAC management platform with cloud analytics. | Starts at **~$0.05 – $0.15/sq. ft./year** (or **~$150 – $300/controller/year** cloud subscription + IoT hardware). | **Free Energy Assessment & 30-Day Pilot**: Free building thermal analysis and 30-day trial pilot for commercial HVAC zones. |
+| **[Clockworks Analytics](https://clockworksanalytics.com/)** | Automated fault detection and diagnostics (FDD) platform analyzing HVAC systems and building energy telemetry. | Starts at **~$0.03 – $0.08/sq. ft./year** (or **~$5,000 – $15,000/building/year** based on connected HVAC point count). | **30-Day Diagnostic Pilot**: Guided trial connecting to existing BMS data to detect and prioritize mechanical faults and energy waste. |
+| **[KGS Buildings](https://www.kgsbuildings.com/)** | Building analytics and HVAC performance diagnostics platform (part of the Clockworks Analytics platform). | Starts at **~$0.03 – $0.08/sq. ft./year** (scaled by connected equipment and square footage). | **30-Day Trial Pilot**: Initial fault detection analysis and guided software trial connecting to mechanical telemetry. |
 
 
 
